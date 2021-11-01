@@ -4,3 +4,10 @@
 Authors: Will Foster-Hall, Reuben Bishop 
 
 ![titlescreen](GameplayTitle.PNG)
+# To Run
+
+//Python 2.x
+python -m SimpleHTTPServer
+
+//Python 3.x
+python -m http.server
